@@ -1,0 +1,32 @@
+{
+  "book": [
+    {
+      "title": "html",
+      "price": "10",
+      "description": "learn html",
+      "username": "mousa",
+      "id": 1
+    },
+    {
+      "title": "css",
+      "price": "20",
+      "description": "learn css",
+      "username": "mousa",
+      "id": 2
+    },
+    {
+      "title": "js",
+      "price": "30",
+      "description": "learn js",
+      "username": "mousa",
+      "id": 3
+    },
+    {
+      "title": "react",
+      "price": "20",
+      "description": "learn react",
+      "username": "mousa",
+      "id": 4
+    }
+  ]
+}
