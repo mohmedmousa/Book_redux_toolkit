@@ -1,0 +1,19 @@
+.book{
+}
+.content{
+    display: flex;
+    justify-content: space-between;
+    padding: 20px 10px  ;
+    border: 1px rgb(79, 76, 76) solid;
+}
+button{
+    border-style: none;
+    color: white;
+}
+.read{
+    background-color: blue;
+    margin-right: 3px;
+}
+.delete{
+    background-color: red;
+}
